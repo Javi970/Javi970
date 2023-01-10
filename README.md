@@ -1,6 +1,8 @@
 <h1 align="center">🧑‍💻 Javier Paiva 🧑‍💻</h1>
 
-<h3 align="center">Full Stack Developer apasionado de Argentina</h3>
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?color=58D68D&lines=Full+Stack+Developer&center=true">
+</p>
 
 Hola a todos, les cuento un poco de mí! a comienzos del 2022, después de un tiempo trabajando como instalador de cámaras y sintiéndome insatisfecho salí de mi zona de confort, dándole un giro a mi vida donde decidí tomar un camino diferente y un nuevo desafío. Desde pequeño siempre tuve el gusto y la pasión por la tecnología que al día de hoy persiste, así fue que comenzó mi camino por el mundo de las IT.
 
@@ -12,7 +14,7 @@ Empece de manera autodidacta a investigar de que se trataba, seguí algunos tuto
          <img alt="Portafolio" title="Mira mi portafolio" src="https://custom-icon-badges.demolab.com/badge/-Mi%20Portafolio-red?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
        <a href="https://www.linkedin.com/in/javier-paiva">
          <img alt="CV" title="Mira mi CV" src="https://custom-icon-badges.demolab.com/badge/-Mi CV-green?style=for-the-badge&logo=download&logoColor=white"/></a>
-        <a href="https://github.com/Javi970">
+        <a href="https://github.com/Javi970?tab=repositories">
          <img alt="Repositorios" title="Mira mis repositorios" src="https://custom-icon-badges.demolab.com/badge/-Mis%20Repositorios-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a>
    </p>
 
